@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 90" fill="none">
+  <!-- MASS Collective tree logo — light version for dark backgrounds, gold palette -->
+
+  <!-- Trunk — flared Y-shape base -->
+  <path d="M38 80 Q38 65 38 52 Q38 42 30 34" stroke="#C5A55A" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M38 80 Q38 65 38 52 Q38 42 46 34" stroke="#C5A55A" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Trunk center line up -->
+  <path d="M38 52 L38 18" stroke="#C5A55A" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Flared base -->
+  <path d="M30 82 Q38 74 46 82" stroke="#C5A55A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Branch 1: lower-left horizontal -->
+  <path d="M32 46 L18 46" stroke="#A08E48" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <circle cx="12" cy="46" r="7" stroke="#A08E48" stroke-width="2.5" fill="none"/>
+
+  <!-- Branch 2: lower-right horizontal -->
+  <path d="M44 46 L58 46" stroke="#B89A4E" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <circle cx="64" cy="46" r="7" stroke="#B89A4E" stroke-width="2.5" fill="none"/>
+
+  <!-- Branch 3: upper-left -->
+  <path d="M30 34 Q22 26 16 22" stroke="#C5A55A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <circle cx="16" cy="16" r="7" stroke="#C5A55A" stroke-width="2.5" fill="none"/>
+
+  <!-- Branch 4: upper-right -->
+  <path d="M46 34 Q54 26 60 22" stroke="#D4BA78" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <circle cx="60" cy="16" r="7" stroke="#D4BA78" stroke-width="2.5" fill="none"/>
+
+  <!-- Branch 5: center top -->
+  <circle cx="38" cy="8" r="7" stroke="#E5D09A" stroke-width="2.5" fill="none"/>
+
+  <!-- Wordmark — light for dark backgrounds -->
+  <text x="90" y="48" font-family="Nunito, system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" letter-spacing="2" fill="#EDE9E1">MASS</text>
+  <text x="90" y="72" font-family="Nunito, system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" letter-spacing="5" fill="rgba(237,233,225,0.45)">COLLECTIVE</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 90" fill="none">
+  <!-- MASS Collective tree logo — matching reference: line-art tree with 5 open-circle branches, gold palette -->
+  <!-- Transparent background -->
+
+  <!-- Trunk — flared Y-shape base -->
+  <path d="M38 80 Q38 65 38 52 Q38 42 30 34" stroke="#B89A4E" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M38 80 Q38 65 38 52 Q38 42 46 34" stroke="#B89A4E" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Trunk center line up -->
+  <path d="M38 52 L38 18" stroke="#B89A4E" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Flared base -->
+  <path d="M30 82 Q38 74 46 82" stroke="#B89A4E" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Branch 1: lower-left horizontal — darkest gold -->
+  <path d="M32 46 L18 46" stroke="#8C7A3C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <circle cx="12" cy="46" r="7" stroke="#8C7A3C" stroke-width="2.5" fill="none"/>
+
+  <!-- Branch 2: lower-right horizontal — dark gold -->
+  <path d="M44 46 L58 46" stroke="#A08E48" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <circle cx="64" cy="46" r="7" stroke="#A08E48" stroke-width="2.5" fill="none"/>
+
+  <!-- Branch 3: upper-left — medium gold -->
+  <path d="M30 34 Q22 26 16 22" stroke="#B89A4E" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <circle cx="16" cy="16" r="7" stroke="#B89A4E" stroke-width="2.5" fill="none"/>
+
+  <!-- Branch 4: upper-right — bright gold -->
+  <path d="M46 34 Q54 26 60 22" stroke="#C5A55A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <circle cx="60" cy="16" r="7" stroke="#C5A55A" stroke-width="2.5" fill="none"/>
+
+  <!-- Branch 5: center top — lightest gold -->
+  <circle cx="38" cy="8" r="7" stroke="#D4BA78" stroke-width="2.5" fill="none"/>
+
+  <!-- Wordmark -->
+  <text x="90" y="48" font-family="Nunito, system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" letter-spacing="2" fill="#021208">MASS</text>
+  <text x="90" y="72" font-family="Nunito, system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" letter-spacing="5" fill="#8A8A8A">COLLECTIVE</text>
+</svg>
